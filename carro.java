@@ -1,4 +1,4 @@
-public class carro{
+public class Carro{
     
     //atributos
     String nome;
@@ -17,7 +17,7 @@ public class carro{
     }
 
     void buzinar(){
-        System.out.println("Sai do mei")
+        System.out.println("Sai do mei");
     }
 
 }
